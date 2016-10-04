@@ -1,2 +1,2 @@
 # ADLMIDI-Player-QML
-Implementation of ADLMIFI based MIDI-player on QML (Especially for Android)
+Implementation of ADLMIDI based MIDI-player on QML (Especially for Android)
